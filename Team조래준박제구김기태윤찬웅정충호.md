@@ -26,4 +26,4 @@ Team 조래준박제구김기태윤찬웅정충호 소개
 
 ### 5. 김기태
    나이: 22살(98년생) 학번:2017011667 학과: 소프트웨어학부 컴퓨터전공
-   >Github link :<https://github.com/1004gite>
+   >Github link :<https://github.com/1004gite> 
