@@ -7,14 +7,17 @@ Team 조래준박제구김기태윤찬웅정충호 소개
 팀원들을 한명씩 소개하겠습니다.
 ### 1. 정충호
   나이: 22살(98년생) 학번:2017012506 학과: 소프트웨어학부 컴퓨터전공
-  >
+  >Github link : <https://github.com/cndgh98>
 
 
 ### 2. 조재준
-> 
-
+  >Github link : <https://github.com/raejoonee>
 
 ### 3. 박제구
   학과:소프트웨어학부 학번:15 
-  >Github link : <https://github.com/Zigje9/Zigje9.github.io>
+  >Github link : <https://github.com/Zigje9>
 
+
+### 4. 윤찬웅
+  나이: 22살(98년생) 학번: 학과: 소프트웨어학부 컴퓨터전공
+  >Github link :<https://github.com/qicqock>
