@@ -21,3 +21,8 @@ Team 조래준박제구김기태윤찬웅정충호 소개
 ### 4. 윤찬웅
   나이: 22살(98년생) 학번: 학과: 소프트웨어학부 컴퓨터전공
   >Github link :<https://github.com/qicqock>
+
+
+### 5. 김기태
+   나이: 22살(98년생) 학번: 학과: 소프트웨어학부 컴퓨터전공
+   >Github link :<https://github.com/1004gite>
