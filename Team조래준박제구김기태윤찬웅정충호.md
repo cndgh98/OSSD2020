@@ -11,6 +11,7 @@ Team 조래준박제구김기태윤찬웅정충호 소개
 
 
 ### 2. 조재준
+  학과:소프트웨어학부 학번:15 
   >Github link : <https://github.com/raejoonee>
 
 ### 3. 박제구
