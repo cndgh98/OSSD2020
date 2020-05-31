@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherForecastAPP</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="pref_title_city">City</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">02baa94d9889a456cb72c6cbe77d0c8d</string>
+    <string name="Country">TextView</string>
+    <string name="country">Country :</string>
+    <string-array name="pref_city_list_values">
+        <item>1835847</item>
+        <item>1835235</item>
+        <item>1835327</item>
+        <item>1838524</item>
+    </string-array>
+    <string-array name="pref_city_list_titles">
+        <item>Seoul</item>
+        <item>Daejeon</item>
+        <item>Taegu</item>
+        <item>Busan</item>
+    </string-array>
+
+</resources>
